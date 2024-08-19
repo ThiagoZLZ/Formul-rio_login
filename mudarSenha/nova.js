@@ -58,8 +58,8 @@ function nova(event) {
 function redirecionarParaLogin() {
     
     setTimeout(() => {
-        window.location.href = "../Inicial/index.html"; // Redireciona para a página de login
-    }, 100); // Pequeno atraso para garantir que o alerta seja exibido antes do redirecionamento
+        window.location.href = "../index.html"; 
+    }, 100); 
 }
 
 

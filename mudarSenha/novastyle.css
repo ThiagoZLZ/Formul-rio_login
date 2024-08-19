@@ -73,9 +73,9 @@ a{
     }
 
     form {
-        width: 80%; /* Ajusta a largura do formulário para dispositivos móveis */
-        margin: 20px auto; /* Ajusta a margem superior e inferior */
-        padding-top: 20%; /* Ajusta o preenchimento superior */
+        width: 80%; 
+        margin: 20px auto; 
+        padding-top: 20%; 
     }
 
     input{
